@@ -14,6 +14,9 @@ public class loopDemo2 {
             }
             System.out.println("");
             System.out.println("X");
+            System.out.println("Y");
+            System.out.println("A");
+            System.out.println("B");
         }
 
     }
