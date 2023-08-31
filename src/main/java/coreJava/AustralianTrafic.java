@@ -24,6 +24,9 @@ public class AustralianTrafic implements CentralTraffic, ContinentalTraffic {
 
     public void walkonsymbol() {
         System.out.println("walking");
+        System.out.println("stil walking");
+        System.out.println("walking still");
+        System.out.println("walk walk");
     }
 
     @Override
