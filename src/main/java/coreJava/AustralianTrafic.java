@@ -27,6 +27,9 @@ public class AustralianTrafic implements CentralTraffic, ContinentalTraffic {
         System.out.println("stil walking");
         System.out.println("walking still");
         System.out.println("walk walk");
+        //new updates
+        System.out.println("walking some more, why the hell not!");
+
     }
 
     @Override

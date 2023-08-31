@@ -13,6 +13,7 @@ public class loopDemo2 {
                 k++;
             }
             System.out.println("");
+            System.out.println("X");
         }
 
     }
