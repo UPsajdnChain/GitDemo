@@ -13,11 +13,20 @@ public class loopDemo2 {
                 k++;
             }
             System.out.println("");
-            System.out.println("X");
-            System.out.println("Y");
-            System.out.println("A");
-            System.out.println("B");
         }
 
+        for (int i = 0; i < 8; i++) {
+            for (int j = 0; j < i; j++) {
+                System.out.print("*");
+            }
+            System.out.print("\n");
+        }
+
+        for (int i = 8; i > 0; i--) {
+            for (int j = 0; j < i; j++) {
+                System.out.print("*");
+            }
+            System.out.print("\n");
+        }
     }
 }
